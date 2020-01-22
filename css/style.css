@@ -15,10 +15,22 @@
 }
 h1{
 	font-size:16px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 20px;
 }
 body{
 	font-size:12px;
 }
 h2{
 	font-size:14px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 20px;
+}
+.buttons {
+	font-size:16px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 20px;
+}
+.image-oye {
+	width: 100px;
 }
